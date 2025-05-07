@@ -4,7 +4,7 @@
 
 int main()
 {
-    std::cout<<"Guess the number"<<std::endl;
+    std::cout<<"Guess the number "<<std::endl;
     std::cout<<"Would you like to guess the number to 10, 100 or 1000? ";
 
     int wanted_number;
